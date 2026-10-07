@@ -1,0 +1,7 @@
+interface:
+  display_name: "微信群消息日报"
+  short_description: "按日期汇总自选微信群与可选飞书来源，保留高价值观点、链接和附件"
+  default_prompt: "Use $wechat-group-daily-report to summarize yesterday's configured WeChat groups into a structured Markdown daily report."
+policy:
+  allow_implicit_invocation: true
+
